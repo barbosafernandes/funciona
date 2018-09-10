@@ -1,12 +1,12 @@
 <?php
 	class decisao{
-	$mv = $resp;
+	
 	function erro(){
-	echo "vc errou";	
+	echo "vc errou <br>";	
 	}	
 
 	function acerto(){
-	echo "parabens vc acertou";	
+	echo "parabens vc acertou <br>";	
 	}	
 }
 ?>
